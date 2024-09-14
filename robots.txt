@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perkthpar.github.io/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/app/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/assets/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/css/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/includes/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/item/sitemap.html.gz
+Sitemap: https://perkthpar.github.io/src/sitemap.html.gz
